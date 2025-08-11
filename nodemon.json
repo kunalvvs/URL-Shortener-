@@ -1,5 +1,0 @@
-{
-  "watch": ["server.js", "public"],
-  "ext": "js json html",
-  "ignore": ["client/**", "node_modules/**", "data.json"]
-}
