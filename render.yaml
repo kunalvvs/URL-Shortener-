@@ -1,0 +1,14 @@
+# Render Deploy Configuration
+# This file configures how Render builds and runs your application
+
+# Build Command: npm run build
+# Start Command: npm start
+
+# Environment Variables to set in Render Dashboard:
+# MONGODB_URI=your_mongodb_atlas_connection_string
+# NODE_ENV=production
+
+# Render will automatically:
+# 1. Install dependencies (npm install)
+# 2. Run the build command (npm run build)
+# 3. Start the application (npm start)
